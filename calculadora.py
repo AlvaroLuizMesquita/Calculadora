@@ -13,12 +13,6 @@ def exebir_nome():
        """)
 
 
-#Abrir terminal (VSCode)
-
-#PARA ABRIR O 𝑇𝐸𝑅𝑀𝐼𝑁𝐴𝐿, DIGITE: CTRL + J
-
-#---------------------------
-
 #Funções declaradas. Declaração de todas as operações com variáveis x e y
 
 def adicao (x,y):
